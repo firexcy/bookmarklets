@@ -1,0 +1,1 @@
+javascript: location.href = "https://www.instapaper.com/text?u=" + encodeURIComponent(location.href);
